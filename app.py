@@ -97,5 +97,5 @@ st.markdown(f"<div class='countdown'>{days_left} Days, {hours_left} Hours, {minu
 
 # Footer message
 st.markdown("---")
-st.write("Created with ❤️ by [Your Name]")
+st.write("Created with ❤️ by your Love")
 
