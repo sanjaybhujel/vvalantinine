@@ -68,7 +68,7 @@ st.title("Happy Valentine's Day, [Babe]!")
 st.subheader("Here's a little something special just for you.")
 
 # Add an image (optional)
- st.image("https://raw.githubusercontent.com/sanjaybhujel/vvalantinine/main/photo.jpg", caption="Our memories together", use_column_width=True)
+st.image("https://raw.githubusercontent.com/sanjaybhujel/vvalantinine/main/photo.jpg", caption="Our memories together", use_column_width=True)
 
 # Add video
 #st.subheader("Our Special Video 🎥")
